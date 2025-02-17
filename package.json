@@ -136,15 +136,15 @@
     "@typescript-eslint/parser": "^4.33.0",
     "eslint": "^7.32.0",
     "glob": "^7.2.3",
-    "mocha": "^8.4.0",
+    "mocha": "^11.1.0",
     "typescript": "^4.7.4",
     "vscode-test": "^1.6.1"
   },
   "dependencies": {
-    "axios": "^0.27.2",
+    "axios": "^0.28.0",
     "dockerode": "^3.3.4",
     "lodash": "^4.17.21",
-    "semver": "^7.3.7",
+    "semver": "^7.7.1",
     "winston": "^3.7.2"
   }
 }
